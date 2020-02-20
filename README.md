@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Adalab](_src/assets/images/logo-adalab-80px.png)
 
 # Adalab web starter kit
@@ -122,3 +123,7 @@ En principio puedes descargar todos los archivos fuera de **\_src/** y sustituir
 ## Falta algo?
 
 Echas de menos que el kit haga algo en concreto? Pidelo sin problema a través de los Issues o si te animas a mejorarlo mándanos un PR :)
+=======
+# ejercicio-evaluacion-final
+repaso de clase
+>>>>>>> 7ef43827b04579c13686306886885d8917e5224e
