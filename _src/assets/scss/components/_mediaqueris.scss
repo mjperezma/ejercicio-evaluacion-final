@@ -1,0 +1,16 @@
+@media all and (max-width:768px) {
+
+    .container__page {
+
+        display: inline-block;
+    }
+}
+
+@media all and (min-width:768px) {
+
+    .secundary__section {
+
+        display: flex;
+        flex-direction: column;
+    }
+}

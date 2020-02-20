@@ -1,0 +1,14 @@
+@import "core/settings";
+@import "layout/_header.scss";
+@import "components/_secundarysection";
+@import "components/_primarysection";
+@import "components/footer";
+@import "components/_mediaqueris.scss";
+
+
+
+.container__page {
+
+    display: flex;
+
+}

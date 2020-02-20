@@ -1,0 +1,26 @@
+.secundary__section {
+
+    font-family: $font-description;
+    align-items: center;
+    display: flex;
+
+
+}
+
+.author {
+
+    &__img {
+
+        height: 75px;
+        width: 75px;
+        margin: auto;
+
+    }
+
+    &__title {
+
+        font-size: 10px;
+        font-family: $font-title;
+    }
+
+}
